@@ -1036,4 +1036,15 @@ a.a-nav:hover{
         }
     }
 
+
+    @media screen and (max-width: 320px){
+        .inicio-container{
+            top: 30%;
+        }
+
+        .inicio-title {
+            font-size: 2.6em;
+        }
+    }
+
 }
